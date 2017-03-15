@@ -40,13 +40,8 @@
     <color name="carbon_text_primary_light">@color/carbon_black_87</color>
     <color name="carbon_text_secondary_light">@color/carbon_black_54</color>
     <color name="carbon_text_hint_light">@color/carbon_black_38</color>
-    <color name="carbon_text_disabled_light">@color/carbon_black_38</color>
 
 
-    <color name="carbon_debug">#ffDE3226</color>
     <color name="carbon_tooltip">#e5616161</color>
-
-    <color name="carbon_tab_text_selected">#ff000000</color>
-    <color name="carbon_tab_text_unselected">#8a000000</color>
 
 </resources>

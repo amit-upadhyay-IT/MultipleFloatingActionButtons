@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="carbon_red_50">#ffebee</color>
     <color name="carbon_red_100">#ffcdd2</color>
     <color name="carbon_red_200">#ef9a9a</color>
