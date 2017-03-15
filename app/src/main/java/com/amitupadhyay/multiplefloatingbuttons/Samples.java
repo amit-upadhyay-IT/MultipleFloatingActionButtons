@@ -88,4 +88,3 @@ public class Samples {
         context.getTheme().applyStyle(preferences.getInt("accent", R.style.AccentBlue), true);
     }
 }
-

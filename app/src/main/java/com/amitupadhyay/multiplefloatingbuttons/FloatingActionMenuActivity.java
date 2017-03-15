@@ -14,4 +14,6 @@ public class FloatingActionMenuActivity extends SamplesActivity {
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setMenu(R.menu.menu_fab);
     }
+
+    
 }
