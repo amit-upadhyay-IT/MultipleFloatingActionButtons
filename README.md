@@ -1,3 +1,3 @@
 # MultipleFloatingActionButtons
 
-Used https://github.com/ZieIony/Carbon project to implement it.
+Get multiple FAB on click of one FAB.
